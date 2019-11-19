@@ -1,3 +1,3 @@
 # myfirstrepo
 This is my first repo
-This is my firt branch in GIt
+This is my first branch in GIt
